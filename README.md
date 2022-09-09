@@ -15,7 +15,7 @@
 
 #### 🔭 I’m currently working on
 
-- Plumage mini game engine
+- ⭐ Plumage mini game engine
 
 
 
@@ -30,9 +30,6 @@
 #### My Github Status
 
 ![ink-soul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ink-soul&show_icons=true&theme=city_lights)
-
-
-
 
 
 
