@@ -1,6 +1,6 @@
 ### **<div align="center">Hi there ! 👋 welcome to my profile </div>**
 
-### **<div align="center">I'm ink-soul who is still a student now,tring to reach my dream</div>**
+### **<div align="center">I'm ink-soul who is still a student now,trying to reach my dream</div>**
 
 ---
 
