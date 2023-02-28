@@ -14,7 +14,6 @@
 
 ####  🌱 I’m currently learning 
 
-- ⭐ CS106B and CS106L
 - ⭐ CSAPP
 - ⭐ CS162
 - ⭐ Games 104
@@ -25,6 +24,7 @@
 #### 🔭 I’m currently working on
 
 - ⭐ Plumage mini game engine
+- ⭐ NEEP
 
 
 
