@@ -14,8 +14,8 @@
 
 ####  🌱 I’m currently learning 
 
-- ⭐ CSAPP
-- ⭐ CS162
+- ⭐ Games 106
+- ⭐ Games 202
 - ⭐ Games 104
 - ⭐ vulkan
 
@@ -23,7 +23,7 @@
 
 #### 🔭 I’m currently working on
 
-- ⭐ Plumage mini game engine
+- ⭐ Plumage mini render
 - ⭐ NEEP
 
 
